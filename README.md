@@ -2,7 +2,8 @@
 
 This project aims to demonstrate the application of machine learning techniques to a specific problem: **handwritten character recognition using the EMNIST dataset**. The project utilizes a custom designed Convolutional Neural Network (CNN) architecture implemented in PyTorch to achieve this goal, is compared against the performance of a ResNet34 model trained on the same dataset, and then deployed with Streamlit.
 
-![Example Image](path/to/example_image.png)
+**Streamlit App:** https://cemnist.streamlit.app
+![Example Image](./images/streamlitAppImage.png)
 
 ## Features
 
